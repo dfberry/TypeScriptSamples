@@ -10,7 +10,7 @@ npm install
 
 **Compile .ts files**
 ```
-node node_modules/typescript/bin/tsc.js
+node node_modules/typescript/.bin/tsc.js
 ```
 shortcut for this command
 ```

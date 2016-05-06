@@ -6,7 +6,7 @@ npm install
 **Compile TypeScript source code**
 
 ```
-node node_modules/typescript/bin/tsc.js
+node node_modules/typescript/bin/tsc
 ```
 
 **Start browser version of the sample using http-server on custom port (code should be compiled prior to this step)**
